@@ -2,11 +2,16 @@
 
 ## Oppgave
 
-Lag et program som løser oppgaven beskrevet på Canvas
+Lag et program som løser *en* av oppgavene vi har sett på i forelesningene:
+
+* a. [Roman Numerals](https://codingdojo.org/kata/RomanNumerals/)
+* b. [Minesweeper](https://codingdojo.org/kata/Minesweeper/)
+* c. [Poker Hands](https://codingdojo.org/kata/PokerHands/)
+* d. [Yahtzee](https://codingdojo.org/kata/Yahtzee/)
 
 ## Innlevering
 
-Dere vil bli tildelt grupper på 4. Hver gruppe skal internt fordele seg på to par som skal levere sammen. Parene skal utføre code review for hverandre. (Enkelte grupper kan være 5 og skal dele seg i et par og en triplet)
+Dere vil bli tildelt grupper på 6. Hver gruppe skal internt fordele seg i par som skal levere sammen. Alle skal utføre code review for de andre parene. Code review skal utføres på Feedback-branchen.
 
 Innleveringen skal leveres på Canvas med link til GitHub-repository. Begge skal levere i Canvas (med link til samme repository).
 
