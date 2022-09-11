@@ -6,8 +6,8 @@ Lag et program som løser *en* av oppgavene vi har sett på i forelesningene:
 
 * a. [Roman Numerals](https://codingdojo.org/kata/RomanNumerals/)
 * b. [Minesweeper](https://codingdojo.org/kata/Minesweeper/)
-* c. [Poker Hands](https://codingdojo.org/kata/PokerHands/)
-* d. [Yahtzee](https://codingdojo.org/kata/Yahtzee/)
+* c. [Poker Hands](https://codingdojo.org/kata/PokerHands/). Det holder om dere klarer å identifisere minst 5 forskjellige type scores: high card, par, tre like, straight og flush
+* d. [Yahtzee](https://codingdojo.org/kata/Yahtzee/). Det holder om dere klarer å identifiere enere til seksere og minst 3 forskjellige typer: par, tre like, liten straight.
 
 ## Innlevering
 
@@ -42,6 +42,7 @@ Når dere oppretter repository via Github Classroom linken på Canvas, vil det a
   * [ ] Koden inneholder en testklasse med 4-7 testmetoder
   * [ ] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
   * [ ] Koden skal være korrekt indentert
+  * [ ] Dersom dere har valgt en stor oppgave behøver dere ikke løse hele. 6-7 tester er tilstrekkelig
 * README-fil
   * [ ] Link til video av parprogrammering
   * [ ] Korrekt GitHub Actions status badge
