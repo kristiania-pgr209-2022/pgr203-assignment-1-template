@@ -11,7 +11,7 @@ Lag et program som løser *en* av oppgavene vi har sett på i forelesningene:
 
 ## Innlevering
 
-Dere vil bli tildelt grupper på 6. Hver gruppe skal internt fordele seg i par som skal levere sammen. Alle skal utføre code review for de andre parene. Code review skal utføres på Feedback-branchen.
+Dere vil bli tildelt grupper på 4-6. Hver gruppe skal internt fordele seg i par som skal levere sammen. Alle skal utføre code review for de andre parene. Code review skal utføres på Feedback-branchen.
 
 Innleveringen skal leveres på Canvas med link til GitHub-repository. Begge skal levere i Canvas (med link til samme repository).
 
